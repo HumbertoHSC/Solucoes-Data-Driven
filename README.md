@@ -5,7 +5,7 @@
 ### Entendimento dos Dados
 - Obtenha uma compreensão profunda do problema de negócio e dos requisitos do projeto.
 Explore os dados para entender sua estrutura, características e qualidade.
-Identifique as fontes dos dados e seus formatos.
+Identifique as fontes dos dados e seus formatos. 
 
 ### Limpeza de Dados
 - Identifique e lide com valores ausentes: remova-os, preencha com valores com métodos apropriados.
